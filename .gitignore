@@ -1,0 +1,55 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+jspm_packages/
+
+# Build directories
+dist/
+build/
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+
+# Ignore compiled CSS
+*.css.map
+
+# Ignore unused assets
+assets/arrow-blue.png
+assets/arrow-head.png
+assets/bg-arrow.png
+assets/bg-arrows-color.png
+assets/bg-arrows-tramsparnt.png
+assets/complete-logo.PNG
+assets/hamburgers/Hamburger-5-azul-claro.png
+
+# Ignore specific plugins
+plugins/fullPage.js-msater/
+
+# Ignore unused follows
+assets/follows/follow-1.png
+assets/follows/follow-2.png
+assets/follows/follow-3.png
+assets/follows/follow-6.png
+assets/follows/follow-7.png
+assets/follows/follow-8.png
+assets/follows/follow-13.png
+assets/follows/follow-16.jpg
+assets/follows/follow-19.jpeg
+assets/follows/follow-23.png
